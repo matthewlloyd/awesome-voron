@@ -10,6 +10,8 @@
 - [Official Sites](#official-sites)
 - [Documentation](#documentation)
 - [Mods](#mods)
+- [Printer Firmware](#printer-firmware)
+- [Slicers and Profiles](#slicers-and-profiles)
 - [Vendors](#vendors)
 
 
@@ -37,6 +39,10 @@ Unofficial documentation from the community.
 - [VoronUsers Repo](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods) - Official Voron mods repo on GitHub.
 - [jangrewe's Voron Mod Search Engine](https://faked.org/voronmods/#) - Search the mods listed in the VoronUsers repo by keyword.
 
+### Collections from Community Members
+
+- [Rama's Mods](https://github.com/Ramalama2/Voron-2-Mods) - Thirteen mods and counting, including Misumi cable clips, improved front idlers Misumi RBPB5 mod, etc.
+
 ### Popular Mods
 
 #### Air Filtration
@@ -44,10 +50,37 @@ Unofficial documentation from the community.
 - [Nevermore Air Filters](https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter) - Activated charcoal air filters for interior or exhaust use.
 - [VEFACH](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/KevinAkaSam/VEFACH) - Voron Exhaust Filter, Activated Coal + HEPA.
 
+#### Nozzle Cleaning
+
+- [Purge Bucket and Nozzle Scrubber](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber) - edwardyeeks' mod to clean your nozzle before prints, also helps with Z offset.
+
 #### Z Offset Correction
 
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe) - Microswitch replacement for the stock inductive probe.
 - [Automatic Z Calibration Plugin for Klipper](https://github.com/protoloft/klipper_z_calibration) - Fully automated Z offset correction, change your nozzle, hotend, temperatures, bed, or PEI plate, without adjusting any offsets manually.
+
+## Printer Firmware
+
+### Klipper
+
+- [Klipper](https://www.klipper3d.org/) - High quality open source printer firmware used by most Voron owners.
+- [Klipper Discourse](https://klipper.discourse.group/) - Discourse server for getting support on Klipper.
+- [Klipper on GitHub](https://github.com/KevinOConnor/klipper) - Python and C source code for Klipper.
+
+### Klipper Configs for Voron Printers
+
+
+
+## Slicers and Profiles
+
+### Slicers
+
+- [SuperSlicer](https://github.com/supermerill/SuperSlicer) - A fork of PrusaSlicer, adding many features including built-in calibration and profiles for Voron printers.
+- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura) - Not as popular as SuperSlicer within the Voron community, but used by many.
+
+### Slicer Profiles
+
+- [Schnitzelslicerrepo²](https://github.com/Stephan3/Schnitzelslicerrepo) -  A collection of profiles for SuperSlicer and KissSlicer made in #landofschnitzel on the Voron Discord.
 
 ## Vendors
 
