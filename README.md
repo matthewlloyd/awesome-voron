@@ -59,17 +59,24 @@ Unofficial documentation from the community.
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe) - Microswitch replacement for the stock inductive probe.
 - [Automatic Z Calibration Plugin for Klipper](https://github.com/protoloft/klipper_z_calibration) - Fully automated Z offset correction, change your nozzle, hotend, temperatures, bed, or PEI plate, without adjusting any offsets manually.
 
+#### Multimaterial Printing
+
+- [Enraged Rabbit Carrot Feeder (ERCF)](https://github.com/EtteGit/EnragedRabbitProject) - Bring multimaterial capabilities to 3D printers using a single Direct Drive toolhead.
+
 ## Printer Firmware
 
 ### Klipper
 
-- [Klipper](https://www.klipper3d.org/) - High quality open source printer firmware used by most Voron owners.
+- [Klipper Official Site](https://www.klipper3d.org/) - High quality free open source printer firmware used by most Voron owners.
 - [Klipper Discourse](https://klipper.discourse.group/) - Discourse server for getting support on Klipper.
 - [Klipper on GitHub](https://github.com/KevinOConnor/klipper) - Python and C source code for Klipper.
+- [Kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper, manages installation of Klipper, Moonraker, Mainsail, Fluidd, KlipperScreen, and more.
+- [Fluidd](https://github.com/cadriel/fluidd) - Fluidd is a free and open-source Klipper web interface for managing your 3D printer.
+- [Mainsail](https://github.com/meteyou/mainsail) - Mainsail a lightweight & responsive web interface for Klipper, the 3D printer firmware.
 
-### Klipper Configs for Voron Printers
+### Example Klipper Configs
 
-
+- [Tigra-Astronomy's V2.4 Configs](https://github.com/Tigra-Astronomy/voron-2-config)
 
 ## Slicers and Profiles
 
@@ -88,12 +95,18 @@ Vendors are listed alphabetically.
 
 ### Parts and Kits
 
+#### Printed Parts Kits
+
+- [Official PIF Program](https://pif.voron.dev/) - High quality ABS parts at low prices from the Voron PIF (print-it-forward) team.
+- [Etsy](https://www.etsy.com/search?q=voron) - Parts kits from Etsy vendors, quality and price can vary.
+
 #### US
 
-- [DeepFriedHero](https://deepfriedhero.in/) - Ships from Texas.
-- [DigMach](https://store.digmach.com/) - Ships from Washington state.
-- [KB-3D](https://kb-3d.com/store/) - Ships from Ohio.
-- [Printed Solid](https://www.printedsolid.com/) - Ships from Delaware.
+- [CS Hyde](https://catalog.cshyde.com/viewitems/3d-printing-materials/ultem-pei) - High quality Ultem PEI sheets. Ships from Illinois.
+- [DeepFriedHero](https://deepfriedhero.in/) - Parts and kits including ERCF. Ships from Texas.
+- [DigMach](https://store.digmach.com/) - Parts and kits. Ships from Washington state.
+- [KB-3D](https://kb-3d.com/store/) - Parts and kits. Ships from Ohio.
+- [Printed Solid](https://www.printedsolid.com/) - Parts, kits, and filament. Ships from Delaware.
 
 ### Filament
 
