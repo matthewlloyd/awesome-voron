@@ -6,14 +6,9 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
-Thank you for your suggestions!
-
+Thank you for your suggestions! Please follow the existing style and
+format of the list where possible. Any changes to the main headers
+should be accompanied by updates to the TOC.
 
 ## Updating your PR
 
