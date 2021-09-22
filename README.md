@@ -49,6 +49,7 @@ Unofficial documentation from the community.
 ### Useful Links
 
 - [Hiwin's Lubrication Instructions for Linear Rails](https://hiwin.us/wp-content/uploads/lubricating_instructions.pdf)
+- [Play Font](https://fonts.google.com/specimen/Play?preview.text=VORON&preview.text_type=custom) - The Voron logo font.
 
 ## Mods
 
@@ -76,6 +77,7 @@ Unofficial documentation from the community.
 
 - [Klicky Probe](https://github.com/jlas1/Klicky-Probe) - Microswitch replacement for the stock inductive probe.
 - [Automatic Z Calibration Plugin for Klipper](https://github.com/protoloft/klipper_z_calibration) - Fully automated Z offset correction, change your nozzle, hotend, temperatures, bed, or PEI plate, without adjusting any offsets manually.
+- [Stable Z Homing Plugin for Klipper](https://discord.com/channels/460117602945990666/635687829254701107/889213329418113144) - Repeatedly probe the Z endstop until the offset stabilizes, optionally running Gcode before each attempt (e.g. to clean the nozzle).
 
 #### Multimaterial Printing
 
