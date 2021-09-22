@@ -20,7 +20,14 @@
 Official sites maintained by the Voron dev team.
 
 - [Voron Design](https://vorondesign.com/) - Main site, with configurators to generate BOMs, and links to STEP files, manuals, sourcing guides, etc.
-- [Voron Documentation](https://docs.vorondesign.com/) - Official documentation, with information sourcing, the build, configuration, tuning, and maintenance.
+- [Voron Documentation](https://docs.vorondesign.com/) - Official documentation,
+  with information on
+  [sourcing](https://docs.vorondesign.com/sourcing.html),
+  [the build](https://docs.vorondesign.com/build/),
+  [configuration](https://docs.vorondesign.com/build/software/configuration.html),
+  [startup](https://docs.vorondesign.com/build/startup/), 
+  [tuning](https://docs.vorondesign.com/tuning/), and
+  [maintenance](https://docs.vorondesign.com/maintenance.html).
 - [Sourcing Guide](https://vorondesign.com/sourcing_guide) - Official sourcing guide for all Voron printers.
 - [Voron GitHub](https://github.com/VoronDesign) - Official Voron GitHub account. 
 - [r/voroncorexy](https://www.reddit.com/r/voroncorexy/) - Reddit group, mostly serial request videos.
