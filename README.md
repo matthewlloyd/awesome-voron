@@ -13,6 +13,7 @@
 - [Printer Firmware](#printer-firmware)
 - [Slicers and Profiles](#slicers-and-profiles)
 - [Vendors](#vendors)
+- [Other Printers](#other-printers)
 
 
 ## Official Sites
@@ -78,6 +79,8 @@ Unofficial documentation from the community.
 
 - [Voron 2.4 & Trident FFC Mod Kit](https://www.schmidtproto.com/product-page/voron-2-4-ffc-mod-kit) - Reduce gantry weight and friction by replacing the drag chains with Flexible Flat Cables (FFC). Inexpensive kits available.
 - [Annex Engineering's Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges) - Panel clips with locking plastic keys, requiring no additional hardware, and available to suit any thickness of panel in 0.5mm increments.
+- [The Parametric Voron](https://github.com/matthewlloyd/Voron-Parametric) - Parametric Fusion 360 reconstructions of all Voron printed parts with design history.
+- [Voron Serials](https://github.com/matthewlloyd/Voron-Serials) - Scripts to fetch, predict, and chart issued Voron serial numbers.
 
 ## Printer Firmware
 
@@ -171,6 +174,7 @@ Vendors are listed alphabetically.
 
 ### Open Source
 
+- [EVA Toolhead System](https://main.eva-3d.page/) - Modular toolhead for MGN rail based printers, with support for many popular extruders and hotends. OnShape CAD source provided.
 - [HevORT](https://hevort.com/) - CoreXY with moving bed. CAD source provided.
 - [Prusa](https://prusa3d.com/) - Popular printers including the MK3S+ and Mini+. Autodesk Inventor CAD source provided, and open source firmware.
 - [Railcore](https://railcore.org/) - CoreXY 3D printer. Parametric Fusion 360 CAD with design history provided.
