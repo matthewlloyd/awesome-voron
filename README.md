@@ -67,6 +67,11 @@ Unofficial documentation from the community.
 
 - [Enraged Rabbit Carrot Feeder (ERCF)](https://github.com/EtteGit/EnragedRabbitProject) - Bring multimaterial capabilities to 3D printers using a single Direct Drive toolhead.
 
+#### Other
+
+- [Voron 2.4 & Trident FFC Mod Kit](https://www.schmidtproto.com/product-page/voron-2-4-ffc-mod-kit) - Reduce gantry weight and friction by replacing the drag chains with Flexible Flat Cables (FFC). Inexpensive kits available.
+- [Annex Engineering's Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges) - Panel clips with locking plastic keys, requiring no additional hardware, and available to suit any thickness of panel in 0.5mm increments.
+
 ## Printer Firmware
 
 ### Klipper
