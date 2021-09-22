@@ -31,6 +31,8 @@ Official sites maintained by the Voron dev team.
 Unofficial documentation from the community.
 
 - [Llybel's V2.4 Recommended BOM Changes](https://docs.google.com/document/d/1esZJFTO1hCzsFt1hfVwuJzQm27T4mPbXps95H8Gskyc/edit) - Community maintained list of recommended additions and changes to the V2.4 BOM.
+- [V2.4 CAD Viewer](https://voron-viewer.vercel.app/voron2.4) - See the full V2.4 CAD in your browser.
+- [koonweee's Color Chooser CAD Viewer](https://config.makercube.me/) - Preview colors for your V0.1, Trident, or V2.4, in 3D. 
 
 ## Mods
 
@@ -73,6 +75,7 @@ Unofficial documentation from the community.
 - [Kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper, manages installation of Klipper, Moonraker, Mainsail, Fluidd, KlipperScreen, and more.
 - [Fluidd](https://github.com/cadriel/fluidd) - Fluidd is a free and open-source Klipper web interface for managing your 3D printer.
 - [Mainsail](https://github.com/meteyou/mainsail) - Mainsail a lightweight & responsive web interface for Klipper, the 3D printer firmware.
+- [Mobileraker](http://www.mobileraker.com/) - Android and iOS apps to control Klipper, written using [Flutter](https://flutter.dev/).
 
 ### Example Klipper Configs
 
@@ -108,6 +111,7 @@ Vendors are listed alphabetically.
 - [Fabreeko](https://www.fabreeko.com/) - Parts and kits. Ships from Florida.
 - [KB-3D](https://kb-3d.com/store/) - Parts and kits. Ships from Ohio.
 - [Printed Solid](https://www.printedsolid.com/) - Parts, kits, and filament. Ships from Delaware.
+- [TITS](https://titsurprises.com/products/peek-bed-spacers-bolts) - PEEK (thermally insulating) bed spacers and bolts.
 - [Wham Bam](https://whambamsystems.com/flexible-build-system) - Flex plate systems, including mag sheets, flex plates, and PEX. Ships from Florida.
 
 #### UK
