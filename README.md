@@ -71,7 +71,7 @@ Unofficial documentation from the community.
 
 ### Klipper
 
-- [Klipper Official Site](https://www.klipper3d.org/) - High quality free open source printer firmware used by most Voron owners.
+- [Klipper Official Site](https://www.klipper3d.org/) - High quality free open source printer firmware, used by most Voron owners.
 - [Klipper Discourse](https://klipper.discourse.group/) - Discourse server for getting support on Klipper.
 - [Klipper on GitHub](https://github.com/KevinOConnor/klipper) - Python and C source code for Klipper.
 - [Kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper, manages installation of Klipper, Moonraker, Mainsail, Fluidd, KlipperScreen, and more.
@@ -82,6 +82,10 @@ Unofficial documentation from the community.
 ### Example Klipper Configs
 
 - [Tigra-Astronomy's V2.4 Configs](https://github.com/Tigra-Astronomy/voron-2-config)
+
+### Other Firmware
+
+- [RepRapFirmware](https://github.com/Duet3D/RepRapFirmware) - Used by the expensive but powerful [Duet3D](https://www.duet3d.com/) boards.
 
 ## Slicers and Profiles
 
@@ -112,7 +116,10 @@ Vendors are listed alphabetically.
 - [DeepFriedHero](https://deepfriedhero.in/) - Parts and kits including ERCF. Ships from Texas.
 - [DigMach](https://store.digmach.com/) - Parts and kits. Ships from Washington state.
 - [Fabreeko](https://www.fabreeko.com/) - Parts and kits. Ships from Florida.
+- [Filastruder](https://www.filastruder.com/) - Parts, kits, and filament. Ships from Georgia.
 - [KB-3D](https://kb-3d.com/store/) - Parts and kits. Ships from Ohio.
+- [Mandala Roseworks](https://www.mandalaroseworks.com/) - Very flat MIC6 bed plates, panel sets, and kits. Ships from Minnesota.
+- [MN Laser Cutting](https://mnlasercutting.com/) - Laser cut ABS panels.
 - [Printed Solid](https://www.printedsolid.com/) - Parts, kits, and filament. Ships from Delaware.
 - [TITS](https://titsurprises.com/products/peek-bed-spacers-bolts) - PEEK (thermally insulating) bed spacers and bolts.
 - [ULTISTIK](https://www.ultistik.com/) - High quality textured PEI flex plates. Ships from Florida.
@@ -121,6 +128,10 @@ Vendors are listed alphabetically.
 #### UK
 
 - [OneTwo3D](https://www.onetwo3d.co.uk/) - Parts, kits, and filament. Ships from Cambridgeshire.
+
+#### Canada
+
+- [Sparta3D](https://sparta3d.ca/) - Parts, kits, and filament. Ships from Ontario.
 
 #### China
 
@@ -134,7 +145,15 @@ Vendors are listed alphabetically.
 
 #### US
 
-- [KVP](https://www.villageplastics.com/) - Large collection of ABS colors, preferred by many PIF team members. Ships from Ohio.
+- [Amazon](https://amzn.to/2ZdDhsu) - eSun ABS+, KVP, and many other brands available with fast shipping.
+- [Filastruder](https://www.filastruder.com/collections/filament) - Their Veracity brand is rebranded KVP. Ships from Georgia.
+- [Fusion Filaments](https://fusionfilaments.com/collections/abs-filament) - Ships from Wisconsin.
+- [Printed Solid](https://www.printedsolid.com/collections/filament) - Many brands and types of filament. Ships from Delaware.
+- [KVP](https://www.villageplastics.com/) - Large variety of ABS colors, preferred by many PIF team members. Makes the signature Voron Fluorescent Red. Ships from Ohio.
+
+#### Canada
+
+- [Sparta3D](https://sparta3d.ca/collections/filaments) - ABS, PLA, PETG, TPU, etc. Ships from Ontario.
 
 ## Other Printers
 
@@ -147,7 +166,7 @@ Vendors are listed alphabetically.
 
 ### Free (but not completely open source)
 
-- [Annex Engineering](http://annex-engineering.com/) - Many designs including K1, K2, K3, and so on. STLs only, and proprietary license.
+- [Annex Engineering](http://annex-engineering.com/) - Many designs including K1, K2, K3, and so on. STLs only, under a proprietary license.
 
 ## Contribute
 
