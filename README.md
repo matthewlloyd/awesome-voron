@@ -1,6 +1,6 @@
 # Awesome Voron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of links related to Voron printers.
+> A curated list of links related to the free Voron line of printers.
 
 ![Voron Logo](https://camo.githubusercontent.com/8dee7e139a0a995eb0e8ce0e9c765875431ae8ff8da1d801ff485622c5a76a51/687474703a2f2f766f726f6e64657369676e2e636f6d2f696d616765732f766f726f6e5f64657369676e5f6c6f676f2e706e67)
 
@@ -105,8 +105,22 @@ Vendors are listed alphabetically.
 - [CS Hyde](https://catalog.cshyde.com/viewitems/3d-printing-materials/ultem-pei) - High quality Ultem PEI sheets. Ships from Illinois.
 - [DeepFriedHero](https://deepfriedhero.in/) - Parts and kits including ERCF. Ships from Texas.
 - [DigMach](https://store.digmach.com/) - Parts and kits. Ships from Washington state.
+- [Fabreeko](https://www.fabreeko.com/) - Parts and kits. Ships from Florida.
 - [KB-3D](https://kb-3d.com/store/) - Parts and kits. Ships from Ohio.
 - [Printed Solid](https://www.printedsolid.com/) - Parts, kits, and filament. Ships from Delaware.
+- [Wham Bam](https://whambamsystems.com/flexible-build-system) - Flex plate systems, including mag sheets, flex plates, and PEX. Ships from Florida.
+
+#### UK
+
+- [OneTwo3D](https://www.onetwo3d.co.uk/) - Parts, kits, and filament. Ships from Cambridgeshire.
+
+#### China
+
+- [AliExpress](https://www.aliexpress.com/) - Source for many parts.
+- [Keenovo](https://keenovo.store/) - Bed heaters preferred by most Voron builders.
+- [LDO Motors](https://ldomotors.com/) - High quality stepper motors, linear rails, and kits.
+- [MagicStudios](https://magicphoenix.xyz/) - Fully customizable and complete V0, V1.8, and V2.4 kits.
+- [RobotDigg](https://robotdigg.com/) - High quality linear rails with very fast shipping.
 
 ### Filament
 
@@ -114,7 +128,21 @@ Vendors are listed alphabetically.
 
 - [KVP](https://www.villageplastics.com/) - Large collection of ABS colors, preferred by many PIF team members. Ships from Ohio.
 
+## Other Printers
+
+### Open Source
+
+- [HevORT](https://hevort.com/) - CoreXY with moving bed. CAD source provided.
+- [Prusa](https://prusa3d.com/) - Popular printers including the MK3S+ and Mini+. Autodesk Inventor CAD source provided, and open source firmware.
+- [Railcore](https://railcore.org/) - CoreXY 3D printer. Parametric Fusion 360 CAD with design history provided.
+- [RatRig](https://www.ratrig.com/) - Various printers with full OnShape CAD provided, and commercially available kits.
+
+### Free (but not completely open source)
+
+- [Annex Engineering](http://annex-engineering.com/) - Many designs including K1, K2, K3, and so on. STLs only, and proprietary license.
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
