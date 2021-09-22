@@ -37,12 +37,18 @@ Official sites maintained by the Voron dev team.
 
 ## Documentation
 
+### Community Contributed
+
 Unofficial documentation from the community.
 
 - [Llybel's V2.4 Recommended BOM Changes](https://docs.google.com/document/d/1esZJFTO1hCzsFt1hfVwuJzQm27T4mPbXps95H8Gskyc/edit) - Community maintained list of recommended additions and changes to the V2.4 BOM.
 - [V2.4 CAD Viewer](https://voron-viewer.vercel.app/voron2.4) - See the full V2.4 CAD in your browser.
 - [koonweee's Color Chooser CAD Viewer (makercube.me)](https://config.makercube.me/) - Preview colors for your V0.1, Trident, or V2.4, in 3D. 
 - [koonweee's Color Chooser CAD Viewer (github.io)](https://koonweee.github.io/voroncfg/) - Preview colors for your V1.8, V2.4, Switchwire, or Micron, in 3D.
+
+### Useful Links
+
+- [Hiwin's Lubrication Instructions for Linear Rails](https://hiwin.us/wp-content/uploads/lubricating_instructions.pdf)
 
 ## Mods
 
@@ -147,6 +153,10 @@ Vendors are listed alphabetically.
 #### Canada
 
 - [Sparta3D](https://sparta3d.ca/) - Parts, kits, and filament. Ships from Ontario.
+
+#### Europe
+
+- [Fermio Labs](https://fermio.xyz/en/) - Parts, kits, and filament. Ships from Hamburg, Germany.
 
 #### China
 
