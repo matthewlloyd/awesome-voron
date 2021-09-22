@@ -25,6 +25,7 @@ Official sites maintained by the Voron dev team.
 - [Voron GitHub](https://github.com/VoronDesign) - Official Voron GitHub account. 
 - [r/voroncorexy](https://www.reddit.com/r/voroncorexy/) - Reddit group, mostly serial request videos.
 - [Voron Discord](https://discord.com/invite/voron) - The Discord server, where most of the communication happens.
+- [Facebook Group](https://www.facebook.com/groups/voroncorexy/) - VORON CoreXY 3D Printer group on Facebook.
 
 ## Documentation
 
@@ -32,7 +33,8 @@ Unofficial documentation from the community.
 
 - [Llybel's V2.4 Recommended BOM Changes](https://docs.google.com/document/d/1esZJFTO1hCzsFt1hfVwuJzQm27T4mPbXps95H8Gskyc/edit) - Community maintained list of recommended additions and changes to the V2.4 BOM.
 - [V2.4 CAD Viewer](https://voron-viewer.vercel.app/voron2.4) - See the full V2.4 CAD in your browser.
-- [koonweee's Color Chooser CAD Viewer](https://config.makercube.me/) - Preview colors for your V0.1, Trident, or V2.4, in 3D. 
+- [koonweee's Color Chooser CAD Viewer (makercube.me)](https://config.makercube.me/) - Preview colors for your V0.1, Trident, or V2.4, in 3D. 
+- [koonweee's Color Chooser CAD Viewer (github.io)](https://koonweee.github.io/voroncfg/) - Preview colors for your V1.8, V2.4, Switchwire, or Micron, in 3D.
 
 ## Mods
 
@@ -100,8 +102,9 @@ Vendors are listed alphabetically.
 
 #### Printed Parts Kits
 
-- [Official PIF Program](https://pif.voron.dev/) - High quality ABS parts at low prices from the Voron PIF (print-it-forward) team.
+- [Official PIF Program](https://pif.voron.dev/) - High quality ABS parts at low prices from the Voron PIF (print-it-forward) team, with a long wait.
 - [Etsy](https://www.etsy.com/search?q=voron) - Parts kits from Etsy vendors, quality and price can vary.
+- [Speed200%](https://speed200k.com/) - High quality printed part kits for V2.4, Trident, V0.1, and soon RatRig printers, with no waiting lists. Ships from Florida.
 
 #### US
 
@@ -112,6 +115,7 @@ Vendors are listed alphabetically.
 - [KB-3D](https://kb-3d.com/store/) - Parts and kits. Ships from Ohio.
 - [Printed Solid](https://www.printedsolid.com/) - Parts, kits, and filament. Ships from Delaware.
 - [TITS](https://titsurprises.com/products/peek-bed-spacers-bolts) - PEEK (thermally insulating) bed spacers and bolts.
+- [ULTISTIK](https://www.ultistik.com/) - High quality textured PEI flex plates. Ships from Florida.
 - [Wham Bam](https://whambamsystems.com/flexible-build-system) - Flex plate systems, including mag sheets, flex plates, and PEX. Ships from Florida.
 
 #### UK
