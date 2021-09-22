@@ -85,7 +85,7 @@ Unofficial documentation from the community.
 
 - [Voron 2.4 & Trident FFC Mod Kit](https://www.schmidtproto.com/product-page/voron-2-4-ffc-mod-kit) - Reduce gantry weight and friction by replacing the drag chains with Flexible Flat Cables (FFC). Inexpensive kits available.
 - [Annex Engineering's Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges) - Panel clips with locking plastic keys, requiring no additional hardware, and available to suit any thickness of panel in 0.5mm increments.
-- [The Parametric Voron](https://github.com/matthewlloyd/Voron-Parametric) - Parametric Fusion 360 reconstructions of all Voron printed parts with design history.
+- [The Parametric Voron](https://github.com/matthewlloyd/Voron-Parametric) - Parametric Fusion 360 reconstructions of all Voron printed parts, with design history captured.
 - [Voron Serials](https://github.com/matthewlloyd/Voron-Serials) - Scripts to fetch, predict, and chart issued Voron serial numbers.
 
 ## Printer Firmware
@@ -100,13 +100,17 @@ Unofficial documentation from the community.
 - [Mainsail](https://github.com/meteyou/mainsail) - Mainsail a lightweight & responsive web interface for Klipper, the 3D printer firmware.
 - [Mobileraker](http://www.mobileraker.com/) - Android and iOS apps to control Klipper, written using [Flutter](https://flutter.dev/).
 
-### Example Klipper Configs
+#### Example Klipper Configs
 
 - [Tigra-Astronomy's V2.4 Configs](https://github.com/Tigra-Astronomy/voron-2-config)
 
-### Other Firmware
+### RepRapFirmware
 
 - [RepRapFirmware](https://github.com/Duet3D/RepRapFirmware) - Used by the expensive but powerful [Duet3D](https://www.duet3d.com/) boards.
+
+#### Example RRF Configs
+
+- [Fulg's Configs](https://github.com/Fulg/VoronUsers/tree/add-rrf3-config/firmware_configurations)
 
 ## Slicers and Profiles
 
@@ -179,6 +183,12 @@ Vendors are listed alphabetically.
 #### Canada
 
 - [Sparta3D](https://sparta3d.ca/collections/filaments) - ABS, PLA, PETG, TPU, etc. Ships from Ontario.
+
+### Electronic Parts and Components
+
+#### US
+
+- [Digikey](https://www.digikey.com/) - Microswitches, terminals, connectors, mains inlets, etc.
 
 ## Other Printers
 
