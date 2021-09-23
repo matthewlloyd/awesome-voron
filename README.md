@@ -158,7 +158,7 @@ Vendors are listed alphabetically.
 #### Canada
 
 - [Sparta3D](https://sparta3d.ca/) - Parts, kits, and filament. Ships from Ontario.
-- [TITS](https://titsurprises.com/products/peek-bed-spacers-bolts) - PEEK (thermally insulating) bed spacers and bolts. Ships from Quebec.
+- [TITS](https://titsurprises.com/products/peek-bed-spacers-bolts) - PEEK (thermally insulating) bed spacers and bolts; also Voron PCBs and Wagos. Ships from Quebec.
 
 #### Europe
 
