@@ -148,7 +148,6 @@ Vendors are listed alphabetically.
 - [Mandala Roseworks](https://www.mandalaroseworks.com/) - Very flat MIC6 bed plates, panel sets, and kits. Ships from Minnesota.
 - [MN Laser Cutting](https://mnlasercutting.com/) - Laser cut ABS panels.
 - [Printed Solid](https://www.printedsolid.com/) - Parts, kits, and filament. Ships from Delaware.
-- [TITS](https://titsurprises.com/products/peek-bed-spacers-bolts) - PEEK (thermally insulating) bed spacers and bolts.
 - [ULTISTIK](https://www.ultistik.com/) - High quality textured PEI flex plates. Ships from Florida.
 - [Wham Bam](https://whambamsystems.com/flexible-build-system) - Flex plate systems, including mag sheets, flex plates, and PEX. Ships from Florida.
 
@@ -159,6 +158,7 @@ Vendors are listed alphabetically.
 #### Canada
 
 - [Sparta3D](https://sparta3d.ca/) - Parts, kits, and filament. Ships from Ontario.
+- [TITS](https://titsurprises.com/products/peek-bed-spacers-bolts) - PEEK (thermally insulating) bed spacers and bolts. Ships from Quebec.
 
 #### Europe
 
