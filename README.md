@@ -48,8 +48,10 @@ Unofficial documentation from the community.
 
 ### Useful Links
 
+- [TeamFDM.com](https://www.teamfdm.com/) - TeamFDM.com is an UNOFFICIAL companion site for the DIY Voron 3D printer community.
 - [Hiwin's Lubrication Instructions for Linear Rails](https://hiwin.us/wp-content/uploads/lubricating_instructions.pdf)
 - [Play Font](https://fonts.google.com/specimen/Play?preview.text=VORON&preview.text_type=custom) - The Voron logo font.
+- [Unofficial V2.4 Printed Parts Tracker](https://docs.google.com/spreadsheets/d/1ASgimuQr2MLA1htX24M7HCI8BwfZwBnVu7yCfkgCu8U/edit?usp=sharing) - Spreadsheet to help you track what parts you need to print.
 
 ## Mods
 
@@ -62,6 +64,7 @@ Unofficial documentation from the community.
 
 - [Greg191134's Mods](https://github.com/Greg191134/Voron) - Afterburner cooling optimizations (Warbird, Matryoshka), the Vorender, and more.
 - [Rama's Mods](https://github.com/Ramalama2/Voron-2-Mods) - Thirteen mods and counting, including Misumi cable clips, improved front idlers Misumi RBPB5 mod, etc.
+- [Craxoor's Mods](https://github.com/craxoor/VoronMods) - Various mods including covers for toolhead PCBs, XY endstops, etc.
 
 ### Popular Mods
 
