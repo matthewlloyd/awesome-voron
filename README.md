@@ -80,6 +80,10 @@ Unofficial documentation from the community.
 - [Automatic Z Calibration Plugin for Klipper](https://github.com/protoloft/klipper_z_calibration) - Fully automated Z offset correction, change your nozzle, hotend, temperatures, bed, or PEI plate, without adjusting any offsets manually.
 - [Stable Z Homing Plugin for Klipper](https://discord.com/channels/460117602945990666/635687829254701107/889213329418113144) - Repeatedly probe the Z endstop until the offset stabilizes, optionally running Gcode before each attempt (e.g. to clean the nozzle).
 
+#### Cooling
+
+- [LoudOwl aka Stabby](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Baltojikale/LoudOwl_aka_Stabby) - An awesome dual 5015 part cooling mod for the Afterburner toolhead.
+
 #### Multimaterial Printing
 
 - [Enraged Rabbit Carrot Feeder (ERCF)](https://github.com/EtteGit/EnragedRabbitProject) - Bring multimaterial capabilities to 3D printers using a single Direct Drive toolhead.
