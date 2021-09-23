@@ -60,6 +60,7 @@ Unofficial documentation from the community.
 
 ### Collections from Community Members
 
+- [Greg191134's Mods](https://github.com/Greg191134/Voron) - Afterburner cooling optimizations (Warbird, Matryoshka), the Vorender, and more.
 - [Rama's Mods](https://github.com/Ramalama2/Voron-2-Mods) - Thirteen mods and counting, including Misumi cable clips, improved front idlers Misumi RBPB5 mod, etc.
 
 ### Popular Mods
