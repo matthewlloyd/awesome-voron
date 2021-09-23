@@ -95,6 +95,7 @@ Unofficial documentation from the community.
 
 - [Voron 2.4 & Trident FFC Mod Kit](https://www.schmidtproto.com/product-page/voron-2-4-ffc-mod-kit) - Reduce gantry weight and friction by replacing the drag chains with Flexible Flat Cables (FFC). Inexpensive kits available.
 - [Annex Engineering's Panel Clips](https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Annex_Panel_2020_Clips_and_Hinges) - Panel clips with locking plastic keys, requiring no additional hardware, and available to suit any thickness of panel in 0.5mm increments.
+- [Voron AfterBurner Clockwork Feeder Mod](https://thangs.com/francismarasigan/Voron-AfterBurner-ClockWork-Feeder-Modstl-24906?fbclid=IwAR0u72cEygDJDcNQcJLq6DGKvcS4LP3C73371doXxWP8RIBNd5e1EqI3FRU) - For printing flexibles - the stock filament feeder doesn't have tight tolerance and TPU will eventually buckle inside and jam the feeder.
 - [The Parametric Voron](https://github.com/matthewlloyd/Voron-Parametric) - Parametric Fusion 360 reconstructions of all Voron printed parts, with design history captured.
 - [Voron Serials](https://github.com/matthewlloyd/Voron-Serials) - Scripts to fetch, predict, and chart issued Voron serial numbers.
 
