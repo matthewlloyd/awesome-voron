@@ -91,6 +91,12 @@ Unofficial documentation from the community.
 
 - [Enraged Rabbit Carrot Feeder (ERCF)](https://github.com/EtteGit/EnragedRabbitProject) - Bring multimaterial capabilities to 3D printers using a single Direct Drive toolhead.
 
+#### Cable Management
+
+- [Cable Cover for 2020 Extrusions](https://www.thingiverse.com/thing:1478147) - Available in 10-200mm lengths (STL and STEP only).
+- [Rama's 2020 Cable Clips](https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip) - 8mm clips for 2020 extrusions, easily scaled to other lengths.
+- [KayosMaker's Parametric Cable Raceways](https://github.com/KayosMaker/ParametricCableRacewayAndLid) - OpenSCAD scripts for cable raceways with matching lids.
+
 #### Other
 
 - [Voron 2.4 & Trident FFC Mod Kit](https://www.schmidtproto.com/product-page/voron-2-4-ffc-mod-kit) - Reduce gantry weight and friction by replacing the drag chains with Flexible Flat Cables (FFC). Inexpensive kits available.
