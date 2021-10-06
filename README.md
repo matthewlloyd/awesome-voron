@@ -4,6 +4,12 @@
 
 ![Voron Logo](https://camo.githubusercontent.com/8dee7e139a0a995eb0e8ce0e9c765875431ae8ff8da1d801ff485622c5a76a51/687474703a2f2f766f726f6e64657369676e2e636f6d2f696d616765732f766f726f6e5f64657369676e5f6c6f676f2e706e67)
 
+_Note: due to recent events, various technical shortcomings with Voron printers,
+and inappropriate and irrational actions taken by the Voron team against a
+substantial number of dissenting community members expressing their right to
+free speech, including myself, I no longer recommend building printers of their
+design. I will be publishing a detailed article explaining why in the near future, which I will link to here._
+
 
 ## Contents
 
