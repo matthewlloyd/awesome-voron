@@ -59,6 +59,7 @@ Unofficial documentation from the community.
 - [Play Font](https://fonts.google.com/specimen/Play?preview.text=VORON&preview.text_type=custom) - The Voron logo font.
 - [Unofficial V2.4 Printed Parts Tracker](https://docs.google.com/spreadsheets/d/1ASgimuQr2MLA1htX24M7HCI8BwfZwBnVu7yCfkgCu8U/edit?usp=sharing) - Spreadsheet to help you track what parts you need to print.
 - ["Finding a way forward"](https://www.reddit.com/r/voroncorexy/comments/djtkry/finding_a_way_forward/) - Interesting Voron history: RCF addresses toxicity on the Voron Discord.
+- ["The truth about the Voron Owners Club (VOC)"](https://www.reddit.com/r/voroncorexy/comments/q1gk2e/the_truth_about_the_voron_owners_club_voc/) - The Voron team decloaks the secret "Voron Owners Club", from which many have been banned as "serious punishment".
 
 ## Mods
 
@@ -128,6 +129,7 @@ Unofficial documentation from the community.
 #### Example Klipper Configs
 
 - [Tigra-Astronomy's V2.4 Configs](https://github.com/Tigra-Astronomy/voron-2-config)
+- [rpanfili's V2.4 Hightower Configs](https://github.com/rpanfili/voron-ht)
 
 ### RepRapFirmware
 
