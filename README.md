@@ -51,6 +51,9 @@ Unofficial documentation from the community.
 - [V2.4 CAD Viewer](https://voron-viewer.vercel.app/voron2.4) - See the full V2.4 CAD in your browser.
 - [koonweee's Color Chooser CAD Viewer (makercube.me)](https://config.makercube.me/) - Preview colors for your V0.1, Trident, or V2.4, in 3D. 
 - [koonweee's Color Chooser CAD Viewer (github.io)](https://koonweee.github.io/voroncfg/) - Preview colors for your V1.8, V2.4, Switchwire, or Micron, in 3D.
+- [3D Printer Color Configurator](https://www.3dprinter-color-configurator.com/) - Sophisticated color configurator tool with STL downloads.
+- [Voron Dozuki](https://voron.dozuki.com/) - A variety of step-by-step guides on assembly, software, and troubleshooting.
+- [Ellis' Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - Comprehensive guide to tuning and calibrating your printer.
 
 ### Useful Links
 
@@ -60,11 +63,14 @@ Unofficial documentation from the community.
 - [Unofficial V2.4 Printed Parts Tracker](https://docs.google.com/spreadsheets/d/1ASgimuQr2MLA1htX24M7HCI8BwfZwBnVu7yCfkgCu8U/edit?usp=sharing) - Spreadsheet to help you track what parts you need to print.
 - ["Finding a way forward"](https://www.reddit.com/r/voroncorexy/comments/djtkry/finding_a_way_forward/) - Interesting Voron history: RCF addresses toxicity on the Voron Discord.
 - ["The truth about the Voron Owners Club (VOC)"](https://www.reddit.com/r/voroncorexy/comments/q1gk2e/the_truth_about_the_voron_owners_club_voc/) - The Voron team decloaks the secret "Voron Owners Club", from which many have been banned as "serious punishment".
+- [Voron Owner's Club](https://rentry.co/voron-owners-club) - Provides a lot of information normally accessible only to VOC members.
+- [Annex Engineering Discord](https://discord.gg/MzTR3zE) - Help and assistance from the very knowledgeable Annex Engineering community for Annex, Voron, Prusa, and other printers, where many of those banned from Voron hang out.
 
 ## Mods
 
 ### Mod Lists and Search Engines
 
+- [Voron Registry](https://voronregistry.com/) - Comprehensive index of all the mods listed in the VoronUsers repo, searchable by keyword, sortable by download count and more. See pictures, read the docs, and download the files all from one place.
 - [VoronUsers Repo](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods) - Official Voron mods repo on GitHub.
 - [jangrewe's Voron Mod Search Engine](https://faked.org/voronmods/#) - Search the mods listed in the VoronUsers repo by keyword.
 
@@ -114,6 +120,11 @@ Unofficial documentation from the community.
 - [The Parametric Voron](https://github.com/matthewlloyd/Voron-Parametric) - Parametric Fusion 360 reconstructions of all Voron printed parts, with design history captured.
 - [Voron Serials](https://github.com/matthewlloyd/Voron-Serials) - Scripts to fetch, predict, and chart issued Voron serial numbers.
 
+### Voron Beta Parts
+
+- [Stealthburner Beta](https://github.com/VoronDesign/Voron-Afterburner/releases/tag/sb-beta0) - Release notes for the Afterburner's possible successor.
+- [Stealthburner and Clockwork2 Beta STLs](https://github.com/VoronDesign/Voron-Afterburner/tree/sb-beta/STLs) - STLs for the beta.
+
 ## Printer Firmware
 
 ### Klipper
@@ -123,8 +134,9 @@ Unofficial documentation from the community.
 - [Klipper on GitHub](https://github.com/KevinOConnor/klipper) - Python and C source code for Klipper.
 - [Kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper, manages installation of Klipper, Moonraker, Mainsail, Fluidd, KlipperScreen, and more.
 - [Fluidd](https://github.com/cadriel/fluidd) - Fluidd is a free and open-source Klipper web interface for managing your 3D printer.
-- [Mainsail](https://github.com/meteyou/mainsail) - Mainsail a lightweight & responsive web interface for Klipper, the 3D printer firmware.
 - [Mobileraker](http://www.mobileraker.com/) - Android and iOS apps to control Klipper, written using [Flutter](https://flutter.dev/).
+- [OctoPrint](https://octoprint.org/) - The popular snappy web interface for your 3D printer. Klipper compatible.
+- [OctoKlipper](https://plugins.octoprint.org/plugins/klipper/) - OctoPrint plugin providing better Klipper integration.
 
 #### Example Klipper Configs
 
@@ -164,6 +176,7 @@ Vendors are listed alphabetically.
 
 #### US
 
+- [3D Maker Parts](https://3dmakerparts.com/) - Parts and kits. Shps from Texas.
 - [CS Hyde](https://catalog.cshyde.com/viewitems/3d-printing-materials/ultem-pei) - High quality Ultem PEI sheets. Ships from Illinois.
 - [DeepFriedHero](https://deepfriedhero.in/) - Parts and kits including ERCF. Ships from Texas.
 - [DigMach](https://store.digmach.com/) - Parts and kits. Ships from Washington state.
@@ -179,6 +192,7 @@ Vendors are listed alphabetically.
 #### UK
 
 - [OneTwo3D](https://www.onetwo3d.co.uk/) - Parts, kits, and filament. Ships from Cambridgeshire.
+- [Printy Please](https://printyplease.uk/) - Parts and kits for Voron, Annex, Zero G, and other printers. Ships from Suffolk.
 
 #### Canada
 
@@ -205,7 +219,6 @@ Vendors are listed alphabetically.
 - [Filastruder](https://www.filastruder.com/collections/filament) - Their Veracity brand is rebranded KVP. Ships from Georgia.
 - [Fusion Filaments](https://fusionfilaments.com/collections/abs-filament) - Ships from Wisconsin.
 - [Printed Solid](https://www.printedsolid.com/collections/filament) - Many brands and types of filament. Ships from Delaware.
-- [KVP](https://www.villageplastics.com/) - Large variety of ABS colors, preferred by many PIF team members. Makes the signature Voron Fluorescent Red. Ships from Ohio.
 
 #### Canada
 
