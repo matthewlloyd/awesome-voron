@@ -143,6 +143,12 @@ Unofficial documentation from the community.
 - [Tigra-Astronomy's V2.4 Configs](https://github.com/Tigra-Astronomy/voron-2-config)
 - [rpanfili's V2.4 Hightower Configs](https://github.com/rpanfili/voron-ht)
 
+#### Useful Klipper Mods and Utilities
+
+- [Troy Jacobson's Cancel Object Mod](https://github.com/Klipper3d/klipper/pull/4716) - Klipper plugin to allow canceling specific objects during the print.
+- [Kageurufu Cancel Object Preprocessor](https://github.com/kageurufu/cancelobject-preprocessor) - G-Code postprocessor to insert annotations for use with Troy Jacobson's Klipper object cancellation plugin.
+- [Dalegaard's Klipper Time Estimator](https://github.com/Annex-Engineering/klipper_estimator) - Fast G-Code print time estimator using Klipper's kinematics.
+
 ### RepRapFirmware
 
 - [RepRapFirmware](https://github.com/Duet3D/RepRapFirmware) - Used by the expensive but powerful [Duet3D](https://www.duet3d.com/) boards.
