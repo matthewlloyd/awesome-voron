@@ -172,6 +172,17 @@ Unofficial documentation from the community.
 
 Vendors are listed alphabetically.
 
+### Manufacturers
+
+#### Extruders
+
+- [Bondtech](https://bondtech.se/) - Industry defining extruders, including the BMG, LGX, and LGX Lite.
+
+#### Hotends
+
+- [Phaetus](https://www.phaetus.com/) - Inventors of the Dragon, Dragonfly, and Rapido hotends with one-handed nozzle change.
+- [Slice Engineering](https://www.sliceengineering.com/) - Inventors of the patented Mosquito hotend with one-handed nozzle change.
+
 ### Parts and Kits
 
 #### Printed Parts Kits
@@ -191,6 +202,7 @@ Vendors are listed alphabetically.
 - [KB-3D](https://kb-3d.com/store/) - Parts and kits. Ships from Ohio.
 - [Mandala Roseworks](https://www.mandalaroseworks.com/) - Very flat MIC6 bed plates, panel sets, and kits. Ships from Minnesota.
 - [MN Laser Cutting](https://mnlasercutting.com/) - Laser cut ABS panels.
+- [Precise Printer Parts](https://preciseprinterparts.com/) - Cast aluminum beds and supporting hardware. Ships from Minnesota.
 - [Printed Solid](https://www.printedsolid.com/) - Parts, kits, and filament. Ships from Delaware.
 - [ULTISTIK](https://www.ultistik.com/) - High quality textured PEI flex plates. Ships from Florida.
 - [Wham Bam](https://whambamsystems.com/flexible-build-system) - Flex plate systems, including mag sheets, flex plates, and PEX. Ships from Florida.
@@ -216,6 +228,7 @@ Vendors are listed alphabetically.
 - [LDO Motors](https://ldomotors.com/) - High quality stepper motors, linear rails, and kits.
 - [MagicStudios](https://magicphoenix.xyz/) - Fully customizable and complete V0, V1.8, and V2.4 kits.
 - [RobotDigg](https://robotdigg.com/) - High quality linear rails with very fast shipping.
+- [TriangleLabs](https://trianglelab.net/) - Vendors of a wide variety of high quality parts, including hotends, extruders, flex plates, and accessories.
 
 ### Filament
 
