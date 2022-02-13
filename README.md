@@ -177,9 +177,11 @@ Vendors are listed alphabetically.
 #### Extruders
 
 - [Bondtech](https://bondtech.se/) - Industry defining extruders, including the BMG, LGX, and LGX Lite.
+- [E3D](https://e3d-online.com/) - Offering the Hemera and Titan extruders.
 
 #### Hotends
 
+- [E3D](https://e3d-online.com/) - Inventors of the Revo, V6, Volcano, and other hotends.
 - [Phaetus](https://www.phaetus.com/) - Inventors of the Dragon, Dragonfly, and Rapido hotends with one-handed nozzle change.
 - [Slice Engineering](https://www.sliceengineering.com/) - Inventors of the patented Mosquito hotend with one-handed nozzle change.
 
