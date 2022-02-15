@@ -54,6 +54,7 @@ Unofficial documentation from the community.
 - [3D Printer Color Configurator](https://www.3dprinter-color-configurator.com/) - Sophisticated color configurator tool with STL downloads.
 - [Voron Dozuki](https://voron.dozuki.com/) - A variety of step-by-step guides on assembly, software, and troubleshooting.
 - [Ellis' Print Tuning Guide](https://github.com/AndrewEllis93/Print-Tuning-Guide) - Comprehensive guide to tuning and calibrating your printer.
+- [Clee's Notes on Sensorless Homing](https://gist.github.com/clee/9108f7717defce8b1222698f816def0a) - Instructions for setting up sensorless homing on Vorons.
 
 ### Useful Links
 
