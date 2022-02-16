@@ -193,7 +193,8 @@ Vendors are listed alphabetically.
 - [Official PIF Program](https://pif.voron.dev/) - High quality ABS parts at low prices from the Voron PIF (print-it-forward) team, with a long wait.
 - [Etsy](https://www.etsy.com/search?q=voron) - Parts kits from Etsy vendors, quality and price can vary.
 - [Speed200%](https://speed200k.com/) - High quality printed part kits for V2.4, Trident, V0.1, and soon RatRig printers, with no waiting lists. Ships from Florida.
-
+- [Voron PIF Kit for V2.4: A Detailed Review](pif-part-set-review.md) - Review and photos of a V2.4 PIF parts kit, printed by "Doc" from the Voron team.
+  
 #### US
 
 - [3D Maker Parts](https://3dmakerparts.com/) - Parts and kits. Shps from Texas.
