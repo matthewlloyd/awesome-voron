@@ -149,6 +149,7 @@ Unofficial documentation from the community.
 - [Troy Jacobson's Cancel Object Mod](https://github.com/Klipper3d/klipper/pull/4716) - Klipper plugin to allow canceling specific objects during the print.
 - [Kageurufu Cancel Object Preprocessor](https://github.com/kageurufu/cancelobject-preprocessor) - G-Code postprocessor to insert annotations for use with Troy Jacobson's Klipper object cancellation plugin.
 - [Dalegaard's Klipper Time Estimator](https://github.com/Annex-Engineering/klipper_estimator) - Fast G-Code print time estimator using Klipper's kinematics.
+- [klipper-doctor](https://github.com/kd-011/klipper-doctor) - Reads a klippy.log or printer.cfg and explains in plain English why Klipper stopped and what to try next.
 
 ### RepRapFirmware
 
