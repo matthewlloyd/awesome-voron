@@ -136,6 +136,7 @@ Unofficial documentation from the community.
 - [Kiauh](https://github.com/th33xitus/kiauh) - Klipper Installation And Update Helper, manages installation of Klipper, Moonraker, Mainsail, Fluidd, KlipperScreen, and more.
 - [Fluidd](https://github.com/cadriel/fluidd) - Fluidd is a free and open-source Klipper web interface for managing your 3D printer.
 - [Mobileraker](http://www.mobileraker.com/) - Android and iOS apps to control Klipper, written using [Flutter](https://flutter.dev/).
+- [Printer Tools](https://printertools.app/) - Native iOS, Android, and macOS app for monitoring Klipper/Moonraker printers, with live camera feeds, print progress, and file management.
 - [OctoPrint](https://octoprint.org/) - The popular snappy web interface for your 3D printer. Klipper compatible.
 - [OctoKlipper](https://plugins.octoprint.org/plugins/klipper/) - OctoPrint plugin providing better Klipper integration.
 
